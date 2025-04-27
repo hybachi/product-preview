@@ -89,6 +89,7 @@ h2 {
 .product__discount {
 	color: var(--color-green-500);
 	display: inline-block;
+	margin: 32px 0;
 }
 
 .product__original-price {
@@ -98,7 +99,7 @@ h2 {
 
 .product__button {
 	width: 100%;
-	padding: 16px 32px;
+	padding: 17.5px 32px;
 	border: none;
 	background-color: var(--color-green-500);
 	color: var(--color-white);
