@@ -11,3 +11,4 @@ This is my solution to the Product Preview Card Challenge
 ---
 
 ### Screenshot
+![image](https://github.com/user-attachments/assets/5d77dd26-09f7-4b75-b07d-8eab983a294d)
